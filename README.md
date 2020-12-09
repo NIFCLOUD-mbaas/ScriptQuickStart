@@ -75,7 +75,7 @@ mobile backend 管理画面にログインし、アプリを作成します。
 <img src="images/scriptQuickStart_003.png" alt="scriptQuickStart_003" size="450px">
 
 * 次の結果が出る場合は、ファイルのデプロイが完了していないため、少し時間をおいてからリトライしてください
-```
+```json
 {"error":"Script is not yet deployed.","status":409,"code":"E409002"}
 ```
 
