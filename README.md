@@ -88,7 +88,7 @@ mobile backend 管理画面にログインし、アプリを作成します。
 Monacaにログインしてダッシュボードを開き、「新しいプロジェクトを作る」＞「最小限のテンプレート」からプロジェクトを作成します。
 * 例）プロジェクト名「スクリプトテスト」
 
-作成したプロジェクトを開き、プロジェクトに JavaScript SDK を導入します
+作成したプロジェクトを開き、プロジェクトに mobile backend を Monaca から利用するための JavaScript SDK を導入します。
 * 導入方法はドキュメントサイトを参照ください
   * https://mbaas.nifcloud.com/doc/current/introduction/div_quickstart_javascript_monaca.html#SDKのインストールと読み込み
 
