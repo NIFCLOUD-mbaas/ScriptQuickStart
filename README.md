@@ -128,7 +128,7 @@ scriptタグも同様に、次のように書き換えます。
 </script>
 ```
 
-* L2-3の「YOUR_APPLICATIONKEY」と「YOUR_CLIENTKEY」にはmobile backend でアプリ作成時に払い出されたAPIキーを設定してください
+* L2-3の「`YOUR_APPLICATIONKEY`」と「`YOUR_CLIENTKEY`」には mobile backend でアプリ作成時に払い出されたAPIキーを設定してください
   * （参考） https://mbaas.nifcloud.com/doc/current/introduction/div_quickstart_javascript_monaca.html#アプリの新規作成
 * 「送信」ボタンが押されると、入力した名前の値を持ってスクリプト「testScript.js」を呼び出し実行します
 
